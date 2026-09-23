@@ -130,7 +130,7 @@ export const hero = {
    *
    * O selo do HeroSection é dimensionado para ~37 caracteres.
    */
-  badge: "Aprovado por {{1.847+ decoradoras}} no Brasil",
+  badge: "Aprovado por {{1.847+ decoradoras}}",
   /** Estrelas amarelas do selo. 0 = escondidas (entra um ícone dourado). */
   badgeStars: 5,
   /** Rótulo pequeno logo acima do título. Texto vazio ("") tira a linha. */
@@ -147,7 +147,7 @@ export const hero = {
   // "Você já sabe montar. O que atrasa é lembrar quantos balões o arco de
   // 3 metros leva..." / "A Biblioteca resolve isso com ficha..."
   context: [] as string[],
-  cta: "Acessar a biblioteca agora",
+  cta: "Quero garantir agora",
   /**
    * ENTREGA — única linha abaixo do CTA, com os ícones do WhatsApp e do
    * Gmail. `[whatsapp]` e `[email]` são substituídos pelo ícone colorido da
