@@ -27,11 +27,11 @@
 /**
  * Checkout do PLANO COMPLETO (R$ 29,90 — 300 projetos + ferramentas + 5 bônus).
  *
- * ⚠️ Link GGCheckout criado quando o Completo custava R$ 27,90: o preço
- * precisa estar em R$ 29,90 no painel da GG.
+ * ⚠️ O preço precisa estar em R$ 29,90 no painel da GG (é o valor com que
+ * este link foi criado).
  */
 export const CHECKOUT_URL =
-  "https://ggcheckout.app/checkout/v5/TrDo8Xg6jiuCWxmTrXEi";
+  "https://ggcheckout.app/checkout/v5/wsKX5ZPYh6Vs8u5DaFos";
 
 /**
  * Checkout do BÁSICO (R$ 10,00 — só os 75 projetos de festa infantil).
@@ -40,18 +40,18 @@ export const CHECKOUT_URL =
  * este link foi criado). Confira também o que ele entrega.
  */
 export const BASIC_CHECKOUT_URL =
-  "https://ggcheckout.app/checkout/v5/dHBGUyfqTCc1FSzI0XPk";
+  "https://ggcheckout.app/checkout/v5/2t43sY2SvOtEE6VNDaql";
 
 /**
  * Checkout do UPSELL (R$ 19,00 — Plano Completo com os 5 bônus). É o destino
  * do "sim" no popup, nos dois caminhos: o clique no plano Básico e o
  * automático. Fechar o popup encerra o funil e devolve a pessoa à página.
  *
- * ⚠️ Link criado quando o upsell custava R$ 17,90: o preço precisa estar em
- * R$ 19,00 no painel da GG.
+ * ⚠️ O preço precisa estar em R$ 19,00 no painel da GG (é o valor com que
+ * este link foi criado).
  */
 export const UPSELL_CHECKOUT_URL =
-  "https://ggcheckout.app/checkout/v5/GwyvIf2cHvXUvPxPInpC";
+  "https://ggcheckout.app/checkout/v5/6zQ6vVQylpzwOWCX2zc1";
 
 /**
  * Back-redirect: página para onde o visitante é levado ao apertar "voltar".
